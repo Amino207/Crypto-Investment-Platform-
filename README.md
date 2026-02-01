@@ -185,6 +185,4 @@ mysql-connector-python
 - Web scripting 
 
 
-Run the client application:
 
-python client_GUI.py
