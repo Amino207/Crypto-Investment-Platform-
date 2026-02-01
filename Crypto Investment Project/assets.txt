@@ -1,0 +1,6 @@
+Bitcoin,74600
+Ethereum,2680
+Avax,27
+Link,13.35
+Solana,214.80
+Matic,1

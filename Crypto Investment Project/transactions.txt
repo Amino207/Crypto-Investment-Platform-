@@ -1,0 +1,2 @@
+Date&Time,Username,Action,Asset,Quantity
+2024-11-29 16:51:01,anna,buy,Solana,2.0
